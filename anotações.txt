@@ -1,0 +1,44 @@
+Algumas vezes o dev usa duas classes no mesmo elemento ex:  <div class="conteiner | about-content">
+usa uma para centralizar e a outra para colocar o conteudo.
+
+
+//overflow\\
+
+A propriedade overflow em CSS é usada para controlar o comportamento do conteúdo quando ele é maior do que a área que o contém. Essa propriedade é frequentemente utilizada em elementos que possuem dimensões fixas (altura e largura) e conteúdo que pode transbordar essas dimensões.
+
+overflow:hidden: O conteúdo que transborda será cortado ou escondido, sem mostrar o que ultrapassa as bordas da caixa.
+
+
+//display\\
+
+A propriedade display em CSS é utilizada para definir o tipo de exibição ou layout de um elemento HTML. Ela especifica como um elemento deve ser renderizado no layout da página. Existem vários valores que podem ser atribuídos à propriedade display, cada um alterando o comportamento de layout do elemento.
+
+display:flex: O elemento se torna um contêiner flexível, permitindo a criação de layouts flexíveis usando propriedades relacionadas. Usada também para colocar dois elementos um do lado do outro.
+
+
+//align-items\\
+
+A propriedade align-items em CSS é usada em contêineres flexíveis (elementos com display: flex ou display: inline-flex) para controlar como os itens dentro desse contêiner são alinhados no eixo transversal (o eixo perpendicular ao eixo principal).
+
+align-items:center: Os itens são centralizados no eixo transversal do contêiner.
+
+
+ //justify-content\\
+
+ A propriedade justify-content em CSS é usada em contêineres flexíveis (elementos com display: flex ou display: inline-flex) para controlar como os itens são distribuídos ao longo do eixo principal (o eixo principal é o eixo principal de um contêiner flexível).
+
+ //gap\\
+
+ A propriedade gap em CSS é usada em contêineres de layout de grade (display: grid ou display: inline-grid) e em contêineres flexíveis (display: flex ou display: inline-flex). Ela define o espaçamento entre as linhas e colunas, ou entre os itens, dentro do contêiner.
+
+ //flex\\
+
+A propriedade flex em CSS é uma propriedade abreviada que combina três outras propriedades relacionadas ao modelo de layout flexível: flex-grow, flex-shrink, e flex-basis.
+A propriedade flex é usada para especificar como um item flexível se expande, contrai e o tamanho inicial que ele deve ter. A sintaxe geral da propriedade flex é:
+
+
+//flex-direction\\
+
+A propriedade flex-direction em CSS é usada para definir a direção principal em que os itens flexíveis são colocados no contêiner flexível. Esta propriedade especifica se os itens devem ser colocados em uma linha (da esquerda para a direita ou da direita para a esquerda), em uma coluna (de cima para baixo ou de baixo para cima), ou em linhas e colunas aninhadas.
+
+flex-direction:column; Os itens são colocados na direção da coluna, de cima para baixo.
