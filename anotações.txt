@@ -42,3 +42,12 @@ A propriedade flex é usada para especificar como um item flexível se expande, 
 A propriedade flex-direction em CSS é usada para definir a direção principal em que os itens flexíveis são colocados no contêiner flexível. Esta propriedade especifica se os itens devem ser colocados em uma linha (da esquerda para a direita ou da direita para a esquerda), em uma coluna (de cima para baixo ou de baixo para cima), ou em linhas e colunas aninhadas.
 
 flex-direction:column; Os itens são colocados na direção da coluna, de cima para baixo.
+
+
+
+text-transform: uppercase; = Deixa um paragrado,titulos em maiusculas
+
+
+
+
+Lembre-se quando vc usa porcentagem na largura das imagens por padrão elas vão se adptando quando vc diminuir o site 
